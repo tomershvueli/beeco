@@ -1,2 +1,0 @@
-# beeco
-Created with CodeSandbox

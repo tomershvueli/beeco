@@ -1,0 +1,23 @@
+{
+  "name": "BeEco Today",
+  "version": "1.0.0",
+  "description": "An app to help you Be Eco Friendly, every day. ",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "modal-enhanced-react-native-web": "^0.2.0",
+    "react": "16.8.4",
+    "react-dom": "16.8.4",
+    "react-markdown": "4.1.0",
+    "react-native-web": "0.11.x",
+    "react-native-web-modal": "1.0.1",
+    "react-scripts": "2.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
